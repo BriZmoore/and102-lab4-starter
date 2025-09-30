@@ -20,7 +20,10 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user camp experiences:
 
 
+![Kapture 2025-09-29 at 20 33 47](https://github.com/user-attachments/assets/db5667cd-e2c8-4d1a-b8ab-de9dacd27d24)
 
+GIF created with ...  
+[Kap](https://getkap.co/) for macOS
 
 
 ## License
